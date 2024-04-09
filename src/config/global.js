@@ -1,17 +1,26 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
+    componenteFormativo: 'Cultura del riesgo',
+    descripcionCurso:
+      'Este componente tiene como fin dar a conocer los elementos para formular una matriz de riesgo permitiendo visualizar la probabilidad de impacto y las acciones que se deben ejecutar en cada proceso para minimizar los riesgos, además de las variables que influyen, los métodos de evaluación y los factores que llevan al cumplimiento de metas, políticas y procedimientos organizacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-0', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
     ],
   },
@@ -31,28 +40,35 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Cultura del riesgo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Variables de influencia',
             hash: 't_1_1',
           },
+          {
+            numero: '1.2',
+            titulo: 'Matriz de probabilidad de impacto',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Políticas de riesgo',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Informes',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Planes de mejora',
+            hash: 't_1_5',
+          },
         ],
-      },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
-        desarrolloContenidos: true,
       },
     ],
     subMenu: [
@@ -86,7 +102,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA12_123500.zip',
       },
       {
         icono: 'fas fa-download',
@@ -102,28 +118,101 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1.2. Matriz de probabilidad de impacto',
+      referencia:
+        'Grupo Proikos. (20221, 13 de enero).Métodos para evaluar los riesgos [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=qYWBhFbN-zs',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '1.5. Planes de mejora',
+      referencia:
+        'Gestión del riesgo: Orientación para la implementación de la NTC-ISO 31000 = <em>Risk management: Guidance for the implementation of</em> ISO 31000. (2016). Bogotá: Icontec.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000012244',
+    },
+    {
+      tema: '1.5. Planes de mejora',
+      referencia:
+        'Economía Gobierno de El Salvador. (2020, 26 d ejunio). Gestión de riesgo ISO 3100. [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=R7sjfJj4Ows',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Cultura del riesgo',
+      significado:
+        'Describe e integra conocimientos, valores, actitudes y creencias que comparten y unifican un grupo de personas con un objetivo común, aplicarla en el interior de las empresas.',
+    },
+    {
+      termino: 'Indicadores de riesgo',
+      significado:
+        'Los KRI permiten determinar el grado de riesgo presente en una empresa en el momento de existir un evento o amenaza. Este indicador está definido por el apetito de riesgos de la empresa; su objetivo es generar alertas para que el gestor de riesgos pueda alcanzar a generar un cambio en la tendencia de las amenazas de manera preventiva, y se pueda iniciar acciones para su tratamiento oportuno.',
+    },
+    {
+      termino: 'Matriz de Probabilidad de Impacto',
+      significado:
+        'Herramienta que prioriza las señales o tendencias de cambio notorias de una manera sencilla y gráfica, conformada por dos dimensiones, referentes al nivel de oportunidad y riesgo: La probabilidad que el evento ocurra Vs. El impacto provocado si ocurre el evento.',
+    },
+    {
+      termino: 'Matriz de riesgo',
+      significado:
+        'Identifica de forma gráfica los riesgos a los que se expone una empresa, teniendo en cuenta la probabilidad y el impacto que pueden causar.',
+    },
+    {
+      termino: 'Plan de mejora',
+      significado:
+        'En este se define el tratamiento que se les dará a los riesgos, teniendo en cuenta acciones de implementación y responsables. Aquí, debe quedar bien definido los alcances, etapas y procesos que se deben ejecutar para dar un monitoreo eficiente y documentar el seguimiento realizado.',
+    },
+    {
+      termino: 'Riesgo',
+      significado:
+        'Probabilidad que un evento desafortunado ocurra y genere consecuencias a una persona, entidad o cosa.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia: 'AE, 2022. Agencia Europea para el SG-SST. ',
+      link: 'https://osha.europa.eu/es',
+    },
+    {
+      referencia:
+        'Blog, 2019. Administración de los Recursos y la Función Informática. Recuperado de ',
+      link: 'https://admoninformaticos201-1.blogspot.com/',
+    },
+    {
+      referencia:
+        'Economía Gobierno de El Salvador. 2022. Gestión de riesgo ISO 3100. ',
+      link:
+        'https://www.youtube.com/watch?v=R7sjfJj4Ows&ab_channel=Econom%C3%ADaGobiernodeElSalvador',
+    },
+    {
+      referencia:
+        'Gestión Del Riesgo: Orientación Para La Implementación De La NTC-ISO 31000 = Risk Management : Guidance for the Implementation of ISO 31000. Bogotá: Icontec, 2016. Print.',
+    },
+    {
+      referencia:
+        'Grupo Bancolombia, (2019) 6 reglas para gestionar riesgos en las empresas. ',
+      link:
+        'https://www.bancolombia.com/wps/portal/empresas/capital-inteligente/actualidad-economica-sectorial/6-reglas-gestionar-riesgos-empresariales',
+    },
+    {
+      referencia:
+        'Incp, (2015). Diferencia entre apetito de riesgo y tolerancia al riesgo. ',
+      link:
+        'https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/',
+    },
+    {
+      referencia: 'La suma de todos, (2022). Tratamiento del Riesgo. ',
+      link:
+        'https://www.madrid.org/cs/StaticFiles/Emprendedores/Analisis_Riesgos/pages/pdf/metodologia/5TratamientodelRiesgo%28AR%29_es.pdf',
+    },
+    {
+      referencia: 'MinTic, (2016). Guía de gestión de riesgos. ',
+      link:
+        'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
     },
   ],
   creditos: [
@@ -131,13 +220,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -146,9 +235,37 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesoría Metodológica y Pedagógica',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Abel Fernando Becerra Carrillo',
+          cargo: 'Experto Temático',
+          centro:
+            'Centro de la industria, la empresa y los servicios - Región Norte de Santander',
+        },
+        {
+          nombre: 'Jeimy Lorena Romero Perilla',
+          cargo: 'Diseño Instruccional',
+          centro:
+            'Centro de la industria, la empresa y los servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Asesoría Metodológica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de Estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluación Instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -156,18 +273,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Diseñador web',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Producción Audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción Audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Diseñador Web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Oscar Daniel Espitia Marin',
+          cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -176,17 +303,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

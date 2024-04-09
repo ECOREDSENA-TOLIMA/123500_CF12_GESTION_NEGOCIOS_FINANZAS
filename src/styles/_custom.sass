@@ -1,18 +1,59 @@
 .banner-principal-decorativo
-  &-1
+  &-0
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 25%
+    right: 33%
+    width: 36%
+  &-1
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 88%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 35%
+    right: 15%
+  &-3
+    animation: float1 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 76%
+    right: 70%
 
-
+    
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+.tarjeta.color-acento-botones
+  background-color: lighten($color-acento-botones, 35%)
+
+.tarjeta.color-terciario
+  background-color: $color-terciario
+
+.cajon.color-secundario
+  background-color: lighten($color-secundario, 67%)
+
+.tarjeta.color-primario,.cajon.color-primario
+  background-color: lighten($color-primario, 67%)
+  p,.h5,ul,li,i,em,b,h4
+    color: #000 !important
+
+.img-infografica__card
+  width: 500px
+
+h4.color-primario
+  color: $color-primario
+
+.tarjeta--boton
+  background-color: #FEF5E5
+
+.tarjeta--boton.color-acento-contenido:hover
+  background-color: $color-adicional-2
+
+  
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important
