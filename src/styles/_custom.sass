@@ -29,21 +29,39 @@
     transform: translateY(0px)
 
 .tarjeta.color-acento-botones
-  background-color: lighten($color-acento-botones, 35%)
+  background-color: #FEF5E5
 
-.tarjeta.color-terciario
-  background-color: $color-terciario
+.tarjeta.color-terciario-b
+  background-color: #E9EFF8
 
 .cajon.color-secundario
   background-color: lighten($color-secundario, 67%)
 
+.bloque-texto-f.color-secundario:before
+  background-color: $color-adicional-1
+
+.cajon-b.cajon-b-2:before 
+    content: ''
+    display: block
+    position: absolute
+    opacity: .35
+    top: 0
+    left: 60%
+    right: 0
+    bottom: 50%
+
+
 .tarjeta.color-primario,.cajon.color-primario
   background-color: lighten($color-primario, 67%)
-  p,.h5,ul,li,i,em,b,h4
+  p,.h5,ul,li,i,em,b,h4,div,span
     color: #000 !important
 
 .img-infografica__card
   width: 500px
+.tarjeta.color-primario-a
+  background-color: $color-primario
+  h4,p
+    color: $white !important
 
 h4.color-primario
   color: $color-primario
@@ -57,3 +75,26 @@ h4.color-primario
   
 .dialogo.color-primario .dialogo__words__word
   color: #3c7792 !important
+
+.tabs-a__tab
+  background-color: $color-terciario
+
+.tarjeta--tabla
+  background-color: $color-adicional-1
+
+.tarjeta--tabla:nth-child(even)
+  background-color: #DBE5F3
+
+.titulo-herramientas 
+  background-image: url("../assets/curso/temas/ico-title.svg")
+  background-size: inherit
+  background-repeat: no-repeat 
+  padding-left: 2em
+  color: $color-primario
+  border-bottom: 0.15em solid $color-secundario
+
+h4.titulo-adicional
+  color: $color-secundario
+h4.titulo-adicional-2
+  color: $color-primario
+  text-align: center

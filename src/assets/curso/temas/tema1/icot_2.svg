@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141">
+  <g id="Grupo_1075328" data-name="Grupo 1075328" transform="translate(-698.023 -15750.023)">
+    <g id="Grupo_1075285" data-name="Grupo 1075285" transform="translate(698 15750)">
+      <circle id="Elipse_5614" data-name="Elipse 5614" cx="70.5" cy="70.5" r="70.5" transform="translate(0.023 0.023)" fill="#fff"/>
+    </g>
+    <g id="Grupo_1075282" data-name="Grupo 1075282" transform="translate(718.978 15764.481)">
+      <g id="Grupo_1075279" data-name="Grupo 1075279" transform="translate(0 0)">
+        <g id="Grupo_1075276" data-name="Grupo 1075276" transform="translate(0 0)">
+          <circle id="Elipse_6029" data-name="Elipse 6029" cx="37.613" cy="37.613" r="37.613" transform="matrix(0.122, -0.993, 0.993, 0.122, 0, 74.665)" fill="#eba325" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Trazado_614715" data-name="Trazado 614715" d="M700.046,372.116a23.935,23.935,0,1,1-23.935-23.935A23.935,23.935,0,0,1,700.046,372.116Z" transform="translate(-634.195 -330.2)" fill="#fff" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Trazado_614716" data-name="Trazado 614716" d="M692.882,378.06a10.828,10.828,0,1,1-10.828-10.828A10.828,10.828,0,0,1,692.882,378.06Z" transform="translate(-640.138 -336.144)" fill="#eba325" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Grupo_1075278" data-name="Grupo 1075278" transform="translate(34.738 21.664)">
+          <path id="Trazado_614717" data-name="Trazado 614717" d="M720.458,372.154l-.564-1.862a15.188,15.188,0,0,0-13.046-9.432c-1.931-3.507-4.6-7.327-7.076-7.327v8.1h-.987a6.153,6.153,0,0,0-6.152,6.152L677.973,379.7a3.907,3.907,0,0,0,.23,6.238l3.318,2.312a8.283,8.283,0,0,0,10.06-.452l.593-.5a4.254,4.254,0,0,1,4.924-.389,15.832,15.832,0,0,0,3.333,1.5,1.676,1.676,0,0,1,.736,2.717L688.2,405.553l-.133,15.857h31.478l-.3-15.28,1.8-7.021A50.03,50.03,0,0,0,720.458,372.154Z" transform="translate(-676.53 -353.534)" fill="#4996d8" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+          <g id="Grupo_1075277" data-name="Grupo 1075277" transform="translate(1.413 63.712)">
+            <rect id="Rectángulo_379724" data-name="Rectángulo 379724" width="40.789" height="8.021" transform="translate(5.672)" fill="#4996d8" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+            <rect id="Rectángulo_379725" data-name="Rectángulo 379725" width="52.132" height="12.03" transform="translate(0 4.935)" fill="#1e4672" stroke="#132e4c" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
