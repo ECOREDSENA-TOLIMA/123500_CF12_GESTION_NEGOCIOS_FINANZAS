@@ -214,7 +214,7 @@
           .col-12.mb-4
             .row.justify-content-center
               .col-auto(data-aos="fade-left")
-                a.anexo.mb-4(:href="obtenerLink('/downloads/anexo_PlanificacionEstrategicayFinanciera.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('/downloads/anexo_Parametrizacionparalaidentificaciondelriesgo.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
