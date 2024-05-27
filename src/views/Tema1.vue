@@ -25,13 +25,13 @@
       .col-md-4.col-lg-3.col-12(data-aos="fade-left") 
         img(src='@/assets/curso/temas/tema1/img_2.png') 
    
-    .row.align-items-center.justify-content-center
-      .col-12
-        .bloque-texto-f.color-secundario.pt-5.px-5.mb-5(data-aos="fade-down")
-          .bloque-texto-f__comillas
-            i.fas.fa-quote-left
-            i.fas.fa-quote-right
-          p.text-regular.bloque-texto-f__texto En las empresas, es primordial contar con un plan adecuado de prevención y evaluación de riesgos, que permita realizar un diagnóstico acertado, y conocer de manera anticipada los sucesos internos o externos que puedan afectan el normal funcionamiento de la compañía. Con base en ello, se deben ejecutar acciones para minimizar o trasladar el riesgo, de esta manera la empresa sería capaz de afrontar sin mayores contratiempos, las consecuencias o pérdidas al materializase (Grupo Bancolombia, 2019).
+      .row.align-items-center.justify-content-center.mt-5
+        .col-10
+          .bloque-texto-f.color-secundario.pt-5.px-5.mb-0(data-aos="fade-down")
+            .bloque-texto-f__comillas
+              i.fas.fa-quote-left
+              i.fas.fa-quote-right
+            p.text-regular.bloque-texto-f__texto En las empresas, es primordial contar con un plan adecuado de prevención y evaluación de riesgos, que permita realizar un diagnóstico acertado, y conocer de manera anticipada los sucesos internos o externos que puedan afectan el normal funcionamiento de la compañía. Con base en ello, se deben ejecutar acciones para minimizar o trasladar el riesgo, de esta manera la empresa sería capaz de afrontar sin mayores contratiempos, las consecuencias o pérdidas al materializase (Grupo Bancolombia, 2019).
 
     Separador
     #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
@@ -46,9 +46,9 @@
         img(src='@/assets/curso/temas/tema1/img_3.png') 
       .col-md-6.col-12(data-aos="fade-right") 
         p Los riesgos al clasificarse pueden caracterizarse eficientemente de tal manera que se logre minimizar el impacto que puede tener en la organización; Todo riesgo cumple con un ciclo: identificar y modelar factores de riesgo, estimar el riesgo, diseñar estrategias, validación operativa, aprobar, implementar y hacer seguimiento. Es indispensable el seguimiento como última etapa, debido a que, solo así es posible tomar medidas para evitar una repetición eventual del mismo riesgo a futuro.
-        p Por otra parte, la Gestión de Riesgo Empresarial es un proceso que afecta a todos los órganos directivos y laborales de la organización (Junta directiva, administrativos y empleados), y es diseñada en búsqueda de perfilar eventos que puedan impactar a la entidad, de tal forma que el riesgo pueda estar dentro del rango de impacto deseable y razonable que no afecte los objetivos de la organización. El alcance de la Gestión de riesgo empresarial debe impactar en todos los niveles y debe incluirse en los modelos de la estrategia organizacional, indispensable para identificar alternativas de solución preventivas y no correctivas que pueden afectar a la organización, y a su vez, debe estar enfocado en el cumplimiento de metas independientemente el departamento al cual se esté aplicando la estrategia.
+        p Por otra parte, la Gestión de Riesgo Empresarial es un proceso que afecta a todos los órganos directivos y laborales de la organización (junta directiva, administrativos y empleados), y es diseñada en búsqueda de perfilar eventos que puedan impactar a la entidad, de tal forma que el riesgo pueda estar dentro del rango de impacto deseable y razonable que no afecte los objetivos de la organización. El alcance de la Gestión de Riesgo Empresarial debe impactar en todos los niveles y debe incluirse en los modelos de la estrategia organizacional, indispensable para identificar alternativas de solución preventivas y no correctivas que pueden afectar a la organización, y a su vez, debe estar enfocado en el cumplimiento de metas independientemente el departamento al cual se esté aplicando la estrategia.
 
-    p.mb-3(data-aos="fade-right") Las variables y/o parámetros a tener en cuenta para la identificación y categorización del riesgo, así como su alternativa de solución en búsqueda de disminuir el impacto llegado el caso se presente, deben estar parametrizados de acuerdo con el Tipo, Amenaza y Origen (D= Deliberadas, A= Accidentales, E= Ambientales)
+    p.mb-3(data-aos="fade-right") Las variables o parámetros a tener en cuenta para la identificación y categorización del riesgo, así como su alternativa de solución en búsqueda de disminuir el impacto llegado el caso se presente, deben estar parametrizados de acuerdo con el Tipo, Amenaza y Origen (D= Deliberadas, A= Accidentales, E= Ambientales)
     p.mb-5(data-aos="fade-right") Para conocer a detalle dicha parametrización revise con atención el siguiente recurso educativo: 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-down")
@@ -222,7 +222,7 @@
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-12(data-aos="zoom-in-down")
-        .cajon.color-primario.p-3.p-md-4
+        .cajon.color-primario.p-3.p-md-4(style="background-color: #E1EFE3")
           p #[b ● Métodos de evaluación de riesgos ]
           p.mb-2 Los métodos de evaluación de riesgos en las empresas dependen en gran medida de la experticia de su gestor o del personal encargado para esta actividad, de las actividades habituales y críticas en la organización, de las propiedades y número de roles en los equipos de trabajo, entre otros factores.
           p.mb-0 Para lograr prevenir adecuada y certeramente las consecuencias de los riesgos, se necesita tener en cuenta los métodos y procesos más adecuados que permita identificar los principales peligros con el objetivo de prevenir que se originen, de esta manera la organización se puede apoyar en herramientas o guías existentes que se puedan adaptar a la estructura de la empresa, y el sector que pertenece. 
@@ -267,7 +267,7 @@
                   span Enlace web
                   i.fas.fa-file-code
 
-    .row.align-items-center.justify-content-center.cajon.color-primario.p-3.p-md-4.mb-5
+    .row.align-items-center.justify-content-center.cajon.color-primario.p-3.p-md-4.mb-5(style="background-color: #E1EFE3")
       .col-lg-11.col-12(data-aos="zoom-in-down")
           p #[b ● Indicadores de riesgo KRI]
           p.mb-2 Los KRI permiten determinar el grado de riesgo presente en una empresa cuando se presenta un evento o amenaza.
@@ -324,7 +324,7 @@
 
     h4.titulo-adicional.mb-4 Pasos para elaborar una matriz de probabilidad de impacto
 
-    .tarjeta.color-primario.p-4.mb-4(data-aos="zoom-in-down")
+    .tarjeta.color-primario.p-4.mb-4(data-aos="zoom-in-down")(style="background-color: #E1EFE3")
       PasosB.color-acento-botones
         .row(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
@@ -367,7 +367,7 @@
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
         p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se puede observar en la figura 2. 
-        .tarjeta.color-primario.p-4
+        .tarjeta.color-primario.p-4(style="background-color: #E1FBFF")
           p.mb-1 ● #[b Área 1.] Se ubican las señales de cambio con impacto muy bajo, es decir, aquellas “no importantes”.
           p.mb-1 ● #[b Área 2.] Son los eventos detectados con impacto medio-alto, pero su probabilidad de ocurrencia es baja, por lo tanto, son “imposibles” que ocurran.
           p.mb-1 ● #[b Área 3.] Son los eventos con impacto moderado-muy alto, con una probabilidad alta de suceder.
@@ -464,81 +464,82 @@
           h4.text-center Gestor de plazos
           p Su función es desarrollar y controlar el cronograma establecido.
 
-    .h4.mb-4(data-aos="zoom-down-right")
-      span.titulo-herramientas Explicación del proceso de gestión
+    .row.align-items-center.justify-content-center.mb-4.tarjeta.color-terciario-b.p-4(style="background-color: #F5FEF6")
+      .h4.mb-4(data-aos="zoom-down-right")
+        span.titulo-herramientas Explicación del proceso de gestión
 
-    p.mb-5(data-aos="fade-right") En la política de gestión de riesgo es indispensable incluir las explicaciones del proceso de gestión, de acuerdo a algunos criterios, para conocerlos revise de manera detallada el siguiente recurso educativo:
+      p.mb-5(data-aos="fade-right") En la política de gestión de riesgo es indispensable incluir las explicaciones del proceso de gestión, de acuerdo a algunos criterios, para conocerlos revise de manera detallada el siguiente recurso educativo:
 
-    .row.align-items-center.justify-content-center.mb-4
-      .col-md-8.col-lg-8.col-12(data-aos="fade-right") 
-        TabsA.color-acento-botones.mb-5
-          .tarjeta.color-acento-botones.p-4(titulo="Comunicación")
-            h4 Comunicación
-            p Proceso de escalamiento y reporte de eventos, para dar a conocer en las áreas de la empresa los riesgos en los que puedan estar involucrados.
-          .tarjeta.color-acento-botones.p-4(titulo="Variables")
-            h4 Variables
-            p Referencias o criterios  que permitan hacer el análisis del riesgo.
-          .tarjeta.color-acento-botones.p-4(titulo="Identificación")
-            h4 Identificación
-            p Cómo, cuándo, y dónde se pueden prevenir los riesgos o se logran mejorar los procesos.
-          .tarjeta.color-acento-botones.p-4(titulo="Documentación")
-            h4 Documentación
-            p Metodología para guardar, sistematizar y registrar el histórico de eventos que producen los riesgos.
-          .tarjeta.color-acento-botones.p-4(titulo="Análisis")
-            h4 Análisis
-            p Probabilidad que un evento desafortunado ocurra y sus posibles consecuencias.
-          .tarjeta.color-acento-botones.p-4(titulo="Evaluación")
-            h4 Evaluación
-            p Aproximación de la probabilidad Vs. riesgos potenciales.
-          .tarjeta.color-acento-botones.p-4(titulo="Tratamiento")
-            h4 Tratamiento
-            p Planes o estrategias a implementar que ayuden en la mitigación del impacto del riesgo.
-          .tarjeta.color-acento-botones.p-4(titulo="Monitoreo")
-            h4 Monitoreo
-            p Gestión del proceso para dar seguimiento a la efectividad de acciones de mejora a implementar.
-      .col-md-4.col-lg-4.col-12(data-aos="fade-left") 
-        img(src='@/assets/curso/temas/tema1/img_11.png') 
+      .row.align-items-center.justify-content-center.mb-4
+        .col-md-8.col-lg-8.col-12(data-aos="fade-right") 
+          TabsA.color-acento-botones.mb-5
+            .tarjeta.color-acento-botones.p-4(titulo="Comunicación")
+              h4 Comunicación
+              p Proceso de escalamiento y reporte de eventos, para dar a conocer en las áreas de la empresa los riesgos en los que puedan estar involucrados.
+            .tarjeta.color-acento-botones.p-4(titulo="Variables")
+              h4 Variables
+              p Referencias o criterios  que permitan hacer el análisis del riesgo.
+            .tarjeta.color-acento-botones.p-4(titulo="Identificación")
+              h4 Identificación
+              p Cómo, cuándo, y dónde se pueden prevenir los riesgos o se logran mejorar los procesos.
+            .tarjeta.color-acento-botones.p-4(titulo="Documentación")
+              h4 Documentación
+              p Metodología para guardar, sistematizar y registrar el histórico de eventos que producen los riesgos.
+            .tarjeta.color-acento-botones.p-4(titulo="Análisis")
+              h4 Análisis
+              p Probabilidad que un evento desafortunado ocurra y sus posibles consecuencias.
+            .tarjeta.color-acento-botones.p-4(titulo="Evaluación")
+              h4 Evaluación
+              p Aproximación de la probabilidad Vs. riesgos potenciales.
+            .tarjeta.color-acento-botones.p-4(titulo="Tratamiento")
+              h4 Tratamiento
+              p Planes o estrategias a implementar que ayuden en la mitigación del impacto del riesgo.
+            .tarjeta.color-acento-botones.p-4(titulo="Monitoreo")
+              h4 Monitoreo
+              p Gestión del proceso para dar seguimiento a la efectividad de acciones de mejora a implementar.
+        .col-md-4.col-lg-4.col-12(data-aos="fade-left") 
+          img(src='@/assets/curso/temas/tema1/img_11.png') 
 
-    .h4.mb-4(data-aos="zoom-down-right")
-      span.titulo-herramientas Definición de metodología
+      .h4.mb-4(data-aos="zoom-down-right")
+        span.titulo-herramientas Definición de metodología
 
-    p.mb-4(data-aos="fade-right") El plan de gestión de riesgo debe contar con una metodología estructurada donde se describan los lineamientos de gestión en cada etapa. Esta metodología dependerá de la estructura de la empresa y sus objetivos trazados, por lo tanto, debe dar cumplimiento con cada etapa del proceso:
-    
-    ul.lista-ul.mb-5.ms-3(data-aos="fade-right")
-      li.mb-0
-        i.lista-ul__vineta
-        | Identificación.
-      li.mb-0
-        i.lista-ul__vineta
-        | Evaluación.
-      li.mb-0
-        i.lista-ul__vineta
-        | Calificación.
-      li.mb-0
-        i.lista-ul__vineta
-        | Priorización.
-      li.mb-0
-        i.lista-ul__vineta
-        | Mitigación.
-      li.mb-0
-        i.lista-ul__vineta
-        | Monitoreo.
+      p.mb-4(data-aos="fade-right") El plan de gestión de riesgo debe contar con una metodología estructurada donde se describan los lineamientos de gestión en cada etapa. Esta metodología dependerá de la estructura de la empresa y sus objetivos trazados, por lo tanto, debe dar cumplimiento con cada etapa del proceso:
+      
+      ul.lista-ul.mb-5.ms-3(data-aos="fade-right")
+        li.mb-0
+          i.lista-ul__vineta
+          | Identificación.
+        li.mb-0
+          i.lista-ul__vineta
+          | Evaluación.
+        li.mb-0
+          i.lista-ul__vineta
+          | Calificación.
+        li.mb-0
+          i.lista-ul__vineta
+          | Priorización.
+        li.mb-0
+          i.lista-ul__vineta
+          | Mitigación.
+        li.mb-0
+          i.lista-ul__vineta
+          | Monitoreo.
 
-    .h4.mb-4(data-aos="zoom-down-right")
-      span.titulo-herramientas Determinación de los niveles y tolerancia al riesgo (Estimación)
+      .h4.mb-4(data-aos="zoom-down-right")
+        span.titulo-herramientas Determinación de los niveles y tolerancia al riesgo (Estimación)
 
-    p.mb-5(data-aos="fade-right") En la política de gestión de riesgo se tiene que estipular la cantidad del riesgo que la empresa puede asumir que permita alcanzar los objetivos propuestos. De esta manera, facilita la destinación de recursos y herramientas imprescindibles para gestionar los riesgos y mitigar sus efectos.
+      p.mb-5(data-aos="fade-right") En la política de gestión de riesgo se tiene que estipular la cantidad del riesgo que la empresa puede asumir que permita alcanzar los objetivos propuestos. De esta manera, facilita la destinación de recursos y herramientas imprescindibles para gestionar los riesgos y mitigar sus efectos.
 
-    .row.justify-content-center.mb-2
-      .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Diferencia entre apetito de riesgo y tolerancia al riesgo</i>
-        figure 
-          img(src='@/assets/curso/temas/tema1/fig-3a.png', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
-          figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
-      .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
-        p Como se muestra en la figura 3 la tolerancia al riesgo es el nivel variable que se puede aceptar en relación con el cumplimiento de un objetivo. Algunos aspectos que se deben tener en cuenta es que la tolerancia al riesgo debe medirse, considerando la importancia de los objetivos relacionados con la planeación estratégica de la organización.
-        p En el campo de riesgos previsibles, la estimación trata de valorar la probabilidad de ocurrencia y el nivel de impacto de los riesgos que se componen y que, teniendo en cuenta su materialidad, requieren una valoración y presenta unos niveles de asignación. La asignación distribuye los riesgos de acuerdo a la capacidad de gestión, de tal manera que puedan ser controlados, administrados y mitigados.
+      .row.justify-content-center.mb-2
+        .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
+          .titulo-sexto.color-acento-contenido
+            p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Diferencia entre apetito de riesgo y tolerancia al riesgo</i>
+          figure 
+            img(src='@/assets/curso/temas/tema1/fig-3a.png', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
+            figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
+        .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
+          p Como se muestra en la figura 3 la tolerancia al riesgo es el nivel variable que se puede aceptar en relación con el cumplimiento de un objetivo. Algunos aspectos que se deben tener en cuenta es que la tolerancia al riesgo debe medirse, considerando la importancia de los objetivos relacionados con la planeación estratégica de la organización.
+          p En el campo de riesgos previsibles, la estimación trata de valorar la probabilidad de ocurrencia y el nivel de impacto de los riesgos que se componen y que, teniendo en cuenta su materialidad, requieren una valoración y presenta unos niveles de asignación. La asignación distribuye los riesgos de acuerdo a la capacidad de gestión, de tal manera que puedan ser controlados, administrados y mitigados.
        
     Separador
     #t_1_4.titulo-segundo.color-primario(data-aos="fade-right")
@@ -626,11 +627,11 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-12(data-aos="zoom-in-down")
-        .cajon.color-primario.p-3.p-md-4
+        .cajon.color-primario.p-3.p-md-4(style="background-color: #E1EFE3")
           p La variedad y complejidad de los riesgos es amplia por lo que este estándar internacional desarrollado por la ISO no está pensado para un sistema particular de gestión, más bien es una guía de buenas prácticas para las actividades relacionadas con la gestión de riesgos. El diseño y la implementación de la gestión de riesgos dependen de las diversas necesidades de cada organización, de sus objetivos concretos, contexto, estructura, operaciones, procesos actividades, servicios, etc. 
           p.mb-0 Esta norma está estructurada en tres elementos claves para una efectiva gestión de riesgos, para conocerlos revise con atención el siguiente recurso educativo:
 
-    h4.titulo-adicional-2.mb-5 Elementos a tener en cuenta para la gestión de riesgos
+    //- h4.titulo-adicional-2.mb-5 Elementos a tener en cuenta para la gestión de riesgos
       
     .tarjeta--container.row.mb-5(data-aos="zoom-in-down")
       .col-md.tarjeta.color-primario-a.p-5
@@ -654,7 +655,7 @@
 
     p.mb-4(data-aos="fade-right") Igualmente, se plasma una guía de 10 pasos para implementar un plan de Gestión y Mejora de Riesgos, revise con atención el siguiente recurso educativo para conocerlos: 
 
-    h4.titulo-adicional-2.mb-5 Pasos para implementar un plan de gestión y mejora de riesgos
+    //- h4.titulo-adicional-2.mb-5 Pasos para implementar un plan de gestión y mejora de riesgos
 
     .row.align-items-center.justify-content-center.mb-4
       .col-md-4.col-lg-4.col-12(data-aos="fade-left") 

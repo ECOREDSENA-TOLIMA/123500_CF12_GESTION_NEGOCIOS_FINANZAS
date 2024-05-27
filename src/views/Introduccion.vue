@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4(data-aos="fade-left") Bienvenido a este componente formativo denominado “Cultura del riesgo” para comenzar el recorrido por el mismo, revise la información que se presenta a continuación: 
+    p.mb-4(data-aos="fade-left") Como bienvenida al presente componente formativo denominado “Cultura del riesgo”, se presenta la siguiente información introductoria:
 
     figure.mb-5(data-aos="zoom-in")
       .video

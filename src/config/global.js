@@ -120,7 +120,7 @@ export default {
     {
       tema: '1.2. Matriz de probabilidad de impacto',
       referencia:
-        'Grupo Proikos. (20221, 13 de enero).Métodos para evaluar los riesgos [video]. YouTube. ',
+        'Grupo Proikos. (20221, 13 de enero). Métodos para evaluar los riesgos [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=qYWBhFbN-zs',
     },
@@ -135,7 +135,7 @@ export default {
     {
       tema: '1.5. Planes de mejora',
       referencia:
-        'Economía Gobierno de El Salvador. (2020, 26 d ejunio). Gestión de riesgo ISO 3100. [video]. YouTube. ',
+        'Economía Gobierno de El Salvador. (2020, 26 de junio). Gestión de riesgo ISO 3100. [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=R7sjfJj4Ows',
     },
