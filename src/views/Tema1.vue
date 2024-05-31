@@ -322,7 +322,7 @@
 
     p.mb-4(data-aos="fade-right") Para construir una matriz de probabilidad de impacto se debe tener en cuenta ciertos pasos, para conocerlos revise con atención la siguiente información:  
 
-    h4.titulo-adicional.mb-4 Pasos para elaborar una matriz de probabilidad de impacto
+    //-h4.titulo-adicional.mb-4 Pasos para elaborar una matriz de probabilidad de impacto
 
     .tarjeta.color-primario.p-4.mb-4(data-aos="zoom-in-down")(style="background-color: #E1EFE3")
       PasosB.color-acento-botones
@@ -361,9 +361,12 @@
     .row.justify-content-center.mb-2
       .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>La matriz de Probabilidad / Impacto</i>
-        figure 
-          img(src='@/assets/curso/temas/tema1/fig-1a.png', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto.')  
+          p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>La matriz de Probabilidad / Impacto</i>
+        figure.desktop
+          img(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto.')  
+          figcaption Nota. https://bit.ly/3SkXvaM
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/fig-1a_.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto.')  
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
         p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se puede observar en la figura 2. 
@@ -375,8 +378,11 @@
       .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>La matriz de Probabilidad / Impacto en 4 áreas</i>
-        figure 
-          img(src='@/assets/curso/temas/tema1/fig-2a.png', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto en 4 áreas.')  
+        figure.desktop
+          img(src='@/assets/curso/temas/tema1/fig-2a.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto en 4 áreas.')  
+          figcaption Nota. https://bit.ly/3SkXvaM
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/fig-2a_.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto en 4 áreas.')  
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
         p La probabilidad de un suceso está comprendida como un número real en el rango [0, 1] y su notación viene dada por #[em P](A), donde #[em P] es la probabilidad, (A) es el suceso o evento, se lee la probabilidad del evento A, y representa la frecuencia con la que se observa la ocurrencia del evento A al efectuarse un estudio de eventos aleatorios. Sin embargo, también existe la incertidumbre del evento y ésta se debe afrontar ejerciendo influencia en las situaciones deseadas, en lo que se quiera que ocurra; Es decir, sin estar seguros de lo que pueda pasar, centrar esfuerzos para obtener una alta probabilidad de conseguir los resultados deseados. No se puede afrontar las situaciones intentando conseguir algo en concreto, sino buscando aumentar las probabilidades de que suceda.
@@ -534,8 +540,11 @@
         .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
           .titulo-sexto.color-acento-contenido
             p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Diferencia entre apetito de riesgo y tolerancia al riesgo</i>
-          figure 
-            img(src='@/assets/curso/temas/tema1/fig-3a.png', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
+          figure.desktop
+            img(src='@/assets/curso/temas/tema1/fig-3a.svg', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
+            figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
+          figure.movil
+            img(src='@/assets/curso/temas/tema1/fig-3a_.svg', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
             figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
         .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
           p Como se muestra en la figura 3 la tolerancia al riesgo es el nivel variable que se puede aceptar en relación con el cumplimiento de un objetivo. Algunos aspectos que se deben tener en cuenta es que la tolerancia al riesgo debe medirse, considerando la importancia de los objetivos relacionados con la planeación estratégica de la organización.
@@ -559,13 +568,13 @@
 
     p.mb-4(data-aos="fade-right") Luego de realizar la evaluación de riesgos y haber definido cuales son los niveles de riesgo aceptado y los controles para su minimización, se procede a elaborar el plan de tratamiento y/o plan de mejora; en este se define, sobre el tratamiento que se les dará a los riesgos, teniendo en cuenta acciones de implementación y responsables. Aquí, debe quedar bien definido los alcances, etapas y procesos que se deben ejecutar para dar un monitoreo eficiente y documentar el seguimiento realizado.
     
-    .titulo-quinto.color-primario
-      h4 Estrategias Vs Plan de gestión
-
     .h4.mb-4(data-aos="zoom-down-right")
+      span.titulo-herramientas Estrategias Vs Plan de gestión
+
+    //-.h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Estrategias de evitación
 
-    p.mb-4(data-aos="fade-right") El objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso revise con atención el siguiente recurso educativo: 
+    p.mb-4(data-aos="fade-right") <strong>Estrategias de evitación</strong>: El objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso revise con atención el siguiente recurso educativo: 
 
     h4.titulo-adicional-2.mb-4 Proceso estrategia de evitación 
 
@@ -618,9 +627,12 @@
     .row.justify-content-center.mb-2
       .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Tratamiento del riesgo </i>
-        figure 
-          img(src='@/assets/curso/temas/tema1/fig-4a.png', alt='En la figura 1 se muestra el Tratamiento del riesgo .')  
+          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Tratamiento del riesgo</i>
+        figure.desktop
+          img(src='@/assets/curso/temas/tema1/fig-4a.svg', alt='En la figura 1 se muestra el Tratamiento del riesgo .')  
+          figcaption Nota. https://bit.ly/3zMxf20
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/fig-4a.svg', alt='En la figura 1 se muestra el Tratamiento del riesgo .')  
           figcaption Nota. https://bit.ly/3zMxf20
 
     p.mb-4(data-aos="fade-right") Ahora bien, la norma ISO 31000 es una norma internacional para la gestión de riesgos, allí se plasman orientaciones y fundamentos en busca de minimizar impactos de riesgos presentes en las organizaciones. Fue publicada en noviembre de 2009 por la Organización Internacional de Normalización (ISO) en colaboración con la Comisión Electrotécnica Internacional (IEC), y tiene por objetivo gestionar sistemas especializados para la normalización mundial, a su vez que empresas de todos los tamaños y tipos logren gestionar los riesgos en las instituciones de forma efectiva, recomendando a éstas que desarrollen, implementen y mejoren de forma continua sus marcos de trabajo con el propósito de integrar la cultura de gestión de riesgos en cada área de la empresa. 
