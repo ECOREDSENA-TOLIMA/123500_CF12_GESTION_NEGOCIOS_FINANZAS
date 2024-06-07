@@ -17,7 +17,7 @@
           p Dirigir una compañía implica, en un alto grado de responsabilidad, la gestión y evaluación adecuada de riesgos internos (operaciones, recurso humano, instalaciones, etc.) y externos (inflación, interés, políticas, tasa de cambio, desempleo, riesgo país, etc.) a los que se expone a diario la empresa.
           p El riesgo es como la energía; no se destruye, se transforma. Debido a esto, cuando se afronta un riesgo únicamente existen tres caminos posibles: mitigarlo (aplicar acciones internas que minimicen su impacto), asumirlo (no realizar acciones de gestión de riesgo) o transferirlo (dejar en manos de un tercero la gestión del riesgo, por ejemplo, una aseguradora).
     
-    .row.align-items-center.justify-content-center.mb-4.tarjeta.color-terciario-b.p-4
+    .row.align-items-center.justify-content-center.mb-4.bg-color-1.p-4
       .col-md-8.col-lg-9.col-12(data-aos="fade-right") 
         p Reconocer el riesgo implica detectar, inspeccionar y explicar aquello que colabora u obstaculiza a una empresa en el logro de sus objetivos. En la identificación de riesgos es indispensable contar con información actualizada, oportuna, y adecuada que permitan caracterizar, analizar y valorar los riesgos y sus niveles de impacto.
         p El análisis del riesgo se realiza con diferentes grados de complejidad, todo depende de su propósito, la transparencia y confiabilidad de la información y los recursos disponibles, existen diversas técnicas para evaluar los riesgos, esta pueden  ser  cualitativas, cuantitativas o mixtas, así mismo, estas permiten recopilar la información de sistemas y procesos que se utilizan en las empresas en búsqueda de mejorar su uso, manipulación, administración de recursos  y  protección ante las vulnerabilidades que se pueden encontrar, por lo tanto, es indispensable hacer control a la probabilidad de ocurrencia de los eventos y sus posibles consecuencias. 
@@ -476,7 +476,7 @@
 
       p.mb-5(data-aos="fade-right") En la política de gestión de riesgo es indispensable incluir las explicaciones del proceso de gestión, de acuerdo a algunos criterios, para conocerlos revise de manera detallada el siguiente recurso educativo:
 
-      .row.align-items-center.justify-content-center.mb-4
+      .row.align-items-center.justify-content-center.mb-4.bg-color-2
         .col-md-8.col-lg-8.col-12(data-aos="fade-right") 
           TabsA.color-acento-botones.mb-5
             .tarjeta.color-acento-botones.p-4(titulo="Comunicación")

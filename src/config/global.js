@@ -174,17 +174,23 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'AE, 2022. Agencia Europea para el SG-SST. ',
+      referencia: 'AE. (2022). Agencia Europea para el SG-SST',
       link: 'https://osha.europa.eu/es',
     },
     {
       referencia:
-        'Blog, 2019. Administración de los Recursos y la Función Informática. Recuperado de ',
+        'Auditol. (2015). Diferencia entre apetito de riesgo y tolerancia al riesgo.',
+      link:
+        'https://www.auditool.org/blog/auditoria-interna/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo',
+    },
+    {
+      referencia:
+        'Blog. (2019). Administración de los Recursos y la Función Informática.',
       link: 'https://admoninformaticos201-1.blogspot.com/',
     },
     {
       referencia:
-        'Economía Gobierno de El Salvador. 2022. Gestión de riesgo ISO 3100. ',
+        'Economía Gobierno de El Salvador. (2022). Gestión de riesgo ISO 3100.',
       link:
         'https://www.youtube.com/watch?v=R7sjfJj4Ows&ab_channel=Econom%C3%ADaGobiernodeElSalvador',
     },
@@ -194,25 +200,19 @@ export default {
     },
     {
       referencia:
-        'Grupo Bancolombia, (2019) 6 reglas para gestionar riesgos en las empresas. ',
+        'Grupo Bancolombia, (2019) 6 reglas para gestionar riesgos en las empresas.',
       link:
         'https://www.bancolombia.com/wps/portal/empresas/capital-inteligente/actualidad-economica-sectorial/6-reglas-gestionar-riesgos-empresariales',
     },
     {
-      referencia:
-        'Incp, (2015). Diferencia entre apetito de riesgo y tolerancia al riesgo. ',
-      link:
-        'https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/',
-    },
-    {
-      referencia: 'La suma de todos, (2022). Tratamiento del Riesgo. ',
-      link:
-        'https://www.madrid.org/cs/StaticFiles/Emprendedores/Analisis_Riesgos/pages/pdf/metodologia/5TratamientodelRiesgo%28AR%29_es.pdf',
-    },
-    {
-      referencia: 'MinTic, (2016). Guía de gestión de riesgos. ',
+      referencia: 'MinTic. (2016). Guía de gestión de riesgos.',
       link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
+    },
+    {
+      referencia: 'UNGRD. (2022). Plan de Tratamiento de Riesgos.',
+      link:
+        'https://portal.gestiondelriesgo.gov.co/Documents/GTI/Plan-de-Tratamiento-de-Riesgos-2022.pdf',
     },
   ],
   creditos: [
