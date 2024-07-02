@@ -31,7 +31,7 @@
             .bloque-texto-f__comillas
               i.fas.fa-quote-left
               i.fas.fa-quote-right
-            p.text-regular.bloque-texto-f__texto En las empresas, es primordial contar con un plan adecuado de prevención y evaluación de riesgos, que permita realizar un diagnóstico acertado, y conocer de manera anticipada los sucesos internos o externos que puedan afectan el normal funcionamiento de la compañía. Con base en ello, se deben ejecutar acciones para minimizar o trasladar el riesgo, de esta manera la empresa sería capaz de afrontar sin mayores contratiempos, las consecuencias o pérdidas al materializase (Grupo Bancolombia, 2019).
+            p.text-regular.bloque-texto-f__texto En las empresas, es primordial contar con un plan adecuado de prevención y evaluación de riesgos, que permita realizar un diagnóstico acertado, y conocer de manera anticipada los sucesos internos o externos que puedan afectar el normal funcionamiento de la compañía. Con base en ello, se deben ejecutar acciones para minimizar o trasladar el riesgo, de esta manera la empresa sería capaz de afrontar sin mayores contratiempos, las consecuencias o pérdidas al materializarse (Grupo Bancolombia, 2019).
 
     Separador
     #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
@@ -49,7 +49,7 @@
         p Por otra parte, la Gestión de Riesgo Empresarial es un proceso que afecta a todos los órganos directivos y laborales de la organización (junta directiva, administrativos y empleados), y es diseñada en búsqueda de perfilar eventos que puedan impactar a la entidad, de tal forma que el riesgo pueda estar dentro del rango de impacto deseable y razonable que no afecte los objetivos de la organización. El alcance de la Gestión de Riesgo Empresarial debe impactar en todos los niveles y debe incluirse en los modelos de la estrategia organizacional, indispensable para identificar alternativas de solución preventivas y no correctivas que pueden afectar a la organización, y a su vez, debe estar enfocado en el cumplimiento de metas independientemente el departamento al cual se esté aplicando la estrategia.
 
     p.mb-3(data-aos="fade-right") Las variables o parámetros a tener en cuenta para la identificación y categorización del riesgo, así como su alternativa de solución en búsqueda de disminuir el impacto llegado el caso se presente, deben estar parametrizados de acuerdo con el Tipo, Amenaza y Origen (D= Deliberadas, A= Accidentales, E= Ambientales)
-    p.mb-5(data-aos="fade-right") Para conocer a detalle dicha parametrización revise con atención el siguiente recurso educativo: 
+    p.mb-5(data-aos="fade-right") Para conocer a detalle dicha parametrización, revise con atención el siguiente recurso educativo: 
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-down")
       .col-12.col-md-11.col-lg-10.d-none.d-sm-none.d-md-block
@@ -78,7 +78,7 @@
                 | Destrucción del equipo o medios.
               li.mb-0
                 i.lista-ul__vineta
-                | Polvo, corrosión congelamiento.
+                | Polvo, corrosión, congelamiento.
             p #[b Para todos estos casos su origen es de tipo:]
             ul.lista-ul.mb-3.ms-3
               li.mb-0
@@ -237,7 +237,7 @@
             p Este método analiza la fase de diseño de los procesos o productos de todas las áreas de la empresa. Diseño, organización, fabricación, comercialización, montaje, etc. Todas las etapas son analizadas por él, lo que significa que se aplica a los procesos clave, es decir, aquellos en los que se pueden producir fallos cuyas consecuencias tengan una importante repercusión.
           .tarjeta.color-acento-botones.p-4(titulo="Análisis del Árbol de Fallas (FTA)")
             h4 Análisis del Árbol de Fallas (FTA)
-            p Se trata de un método de evaluación que analiza principalmente los sistemas que pueden dar fallos para conseguir identificar aquellas formas que son mejores para la reducción de los riesgos, también para la determinación de las tasas de eventos que pueden producir una falla o accidente de seguridad en un nivel determinado de un sistema. Por este motivo es aplicado en los campos de ingeniería de fiabilidad o de seguridad.
+            p Se trata de un método de evaluación que analiza principalmente los sistemas que pueden dar fallos para conseguir identificar aquellas formas que son mejores para la reducción de los riesgos, también para la determinación de las tasas de eventos que pueden producir una falla o accidente de seguridad en un nivel determinado de un sistema. Por este motivo, es aplicado en los campos de ingeniería de fiabilidad o de seguridad.
           .tarjeta.color-acento-botones.p-4(titulo="<em>Check-lists</em>")
             h4 #[em Check-lists]
             p Es uno de los métodos más sencillos de identificación de riesgos en las empresas. A través de un cuestionario previamente realizado por un experto, se analizan los aspectos críticos de todas las áreas de la empresa. Cumplimiento de la legislación, zona de trabajo, herramientas, equipos, protecciones que usan los trabajadores, materiales, espacios, políticas de prevención aplicadas, estudios ergonómicos y todo aquello que puede poner en riesgo la seguridad de los empleados.
@@ -315,7 +315,7 @@
         p El análisis de riesgos permite recopilar la información de sistema y procesos que se utilizan en las empresas en búsqueda de mejorar el uso, manipulación, protección y administración de recursos, ante las vulnerabilidades que se pudiesen encontrar. Por este motivo, es indispensable hacer control a la probabilidad de ocurrencia de los eventos y sus posibles consecuencias.
         p Existen diversas formas de gestionar un análisis de riesgos, lo más importante es conocer o entender la forma en que se determinará el valor del riesgo. Una forma sería, multiplicar la vulnerabilidad por el % de importancia o peso para la empresa, es decir, mientras más vulnerable sea un activo, y más importante sea este para la entidad, mayor será su riesgo. Por lo tanto, la inversión en tiempo, dinero o capital humano será mayor para lograr minimizarlo.
         p De forma general, el riesgo concierne a situaciones donde las probabilidades de resultados y sus consecuencias se determinan por medio de técnicas de datos reales, de este modo, la matriz de probabilidad de impacto es una herramienta que prioriza las señales o tendencias de cambio notorias de una manera sencilla y gráfica, conformada por dos dimensiones, referentes al nivel de oportunidad y riesgo: La probabilidad que el evento ocurra Vs. El impacto provocado si ocurre el evento. Para su medición, la probabilidad se valora en % y el impacto en gravedad, en comparación con los eventos que pueden desencadenar las consecuencias.
-        p Por ser una herramienta gráfica, es posible mezclar ambos factores en un mismo análisis, y evaluar al mismo tiempo sus resultados para la toma de decisiones. La Matriz de probabilidad de impacto permite identificar los riesgos y determinar las opciones de cambio más apropiadas para el desarrollo de alternativas de solución.
+        p Por ser una herramienta gráfica, es posible mezclar ambos factores en un mismo análisis, y evaluar al mismo tiempo sus resultados para la toma de decisiones. La matriz de probabilidad de impacto permite identificar los riesgos y determinar las opciones de cambio más apropiadas para el desarrollo de alternativas de solución.
 
     .h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Métodos de elaboración
@@ -337,7 +337,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Definir el índice de evaluación (cualitativo o cuantitativo)
             p Si es una escala cualitativa, se debe realizar la clasificación sin datos numéricos.
-            p Si es una escala cuantitativa: Se otorga un índice de entre 0 y 10 para cada una de las variables, evaluándose así:
+            p Si es una escala cuantitativa: se otorga un índice de entre 0 y 10 para cada una de las variables, evaluándose así:
             ul.lista-ul.mb-3.ms-3
               li.mb-0
                 i.lista-ul__vineta
@@ -369,7 +369,7 @@
           img(src='@/assets/curso/temas/tema1/fig-1a_.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto.')  
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
-        p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se puede observar en la figura 2. 
+        p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se analiza en la figura 2. 
         .tarjeta.color-primario.p-4(style="background-color: #E1FBFF")
           p.mb-1 ● #[b Área 1.] Se ubican las señales de cambio con impacto muy bajo, es decir, aquellas “no importantes”.
           p.mb-1 ● #[b Área 2.] Son los eventos detectados con impacto medio-alto, pero su probabilidad de ocurrencia es baja, por lo tanto, son “imposibles” que ocurran.
@@ -385,7 +385,7 @@
           img(src='@/assets/curso/temas/tema1/fig-2a_.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto en 4 áreas.')  
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
-        p La probabilidad de un suceso está comprendida como un número real en el rango [0, 1] y su notación viene dada por #[em P](A), donde #[em P] es la probabilidad, (A) es el suceso o evento, se lee la probabilidad del evento A, y representa la frecuencia con la que se observa la ocurrencia del evento A al efectuarse un estudio de eventos aleatorios. Sin embargo, también existe la incertidumbre del evento y ésta se debe afrontar ejerciendo influencia en las situaciones deseadas, en lo que se quiera que ocurra; Es decir, sin estar seguros de lo que pueda pasar, centrar esfuerzos para obtener una alta probabilidad de conseguir los resultados deseados. No se puede afrontar las situaciones intentando conseguir algo en concreto, sino buscando aumentar las probabilidades de que suceda.
+        p La probabilidad de un suceso está comprendida como un número real en el rango [0, 1] y su notación viene dada por #[em P](A), donde #[em P] es la probabilidad, (A) es el suceso o evento, se lee la probabilidad del evento A, y representa la frecuencia con la que se observa la ocurrencia del evento A al efectuarse un estudio de eventos aleatorios. Sin embargo, también existe la incertidumbre del evento y ésta se debe afrontar ejerciendo influencia en las situaciones deseadas, en lo que se quiera que ocurra; Es decir, sin estar seguros de lo que pueda pasar, centrar esfuerzos para obtener una alta probabilidad de conseguir los resultados deseados. No se pueden afrontar las situaciones intentando conseguir algo en concreto, sino buscando aumentar las probabilidades de que suceda.
 
     Separador
     #t_1_3.titulo-segundo.color-primario(data-aos="fade-right")
@@ -400,7 +400,7 @@
     .h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Asignación de roles y responsabilidades
 
-    p.mb-5(data-aos="fade-right") En la política de gestión de riesgo se debe especificar las personas o responsables que se encargará de controlar, monitorear, reportar y dar seguimiento a los riesgos, estructurando las funciones específicas de cada parte involucrada. En la gestión de equipos de trabajo se puede tener en cuenta los roles más representativos, para conocerlos se presenta a continuación:
+    p.mb-5(data-aos="fade-right") En la política de gestión de riesgo se debe especificar las personas o responsables que se encargarán de controlar, monitorear, reportar y dar seguimiento a los riesgos, estructurando las funciones específicas de cada parte involucrada. En la gestión de equipos de trabajo se pueden tener en cuenta los roles más representativos, para conocerlos se presenta a continuación:
 
     .row.mb-4
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in-down")
@@ -542,12 +542,12 @@
             p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Diferencia entre apetito de riesgo y tolerancia al riesgo</i>
           figure.desktop
             img(src='@/assets/curso/temas/tema1/fig-3a.svg', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
-            figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
+            figcaption Nota. https://blogs.portafolio.co/buenas-practicas-de-auditoria-y-control-interno-en-las-organizaciones/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/
           figure.movil
             img(src='@/assets/curso/temas/tema1/fig-3a_.svg', alt='En la figura 1 se muestra la diferencia entre apetito de riesgo y tolerancia al riesgo.')  
-            figcaption Nota. https://incp.org.co/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/  
+            figcaption Nota. https://blogs.portafolio.co/buenas-practicas-de-auditoria-y-control-interno-en-las-organizaciones/diferencia-entre-apetito-de-riesgo-y-tolerancia-al-riesgo/
         .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
-          p Como se muestra en la figura 3 la tolerancia al riesgo es el nivel variable que se puede aceptar en relación con el cumplimiento de un objetivo. Algunos aspectos que se deben tener en cuenta es que la tolerancia al riesgo debe medirse, considerando la importancia de los objetivos relacionados con la planeación estratégica de la organización.
+          p Como se analiza en la figura 3 la tolerancia al riesgo es el nivel variable que se puede aceptar en relación con el cumplimiento de un objetivo. Algunos aspectos que se deben tener en cuenta es que la tolerancia al riesgo debe medirse, considerando la importancia de los objetivos relacionados con la planeación estratégica de la organización.
           p En el campo de riesgos previsibles, la estimación trata de valorar la probabilidad de ocurrencia y el nivel de impacto de los riesgos que se componen y que, teniendo en cuenta su materialidad, requieren una valoración y presenta unos niveles de asignación. La asignación distribuye los riesgos de acuerdo a la capacidad de gestión, de tal manera que puedan ser controlados, administrados y mitigados.
        
     Separador
@@ -555,7 +555,7 @@
       h2 1.4 Informes
 
     p.mb-4(data-aos="fade-right") Realizar un informe para el tratamiento y evaluación de los riesgos, permite a una empresa detectar, categorizar, caracterizar, analizar y valorar las amenazas que afectan los objetivos. A partir de este informe, se procede a generar una estrategia para la toma de decisiones e implementación de acciones que logren prevenir las consecuencias de estos riesgos.
-    p.mb-5(data-aos="fade-right") Para conocer la estructura de los informes de gestión de riesgos revise el siguiente recurso educativo:
+    p.mb-5(data-aos="fade-right") Para conocer la estructura de los informes de gestión de riesgos, revise el siguiente recurso educativo:
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -574,7 +574,7 @@
     //-.h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Estrategias de evitación
 
-    p.mb-4(data-aos="fade-right") <strong>Estrategias de evitación</strong>: El objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso revise con atención el siguiente recurso educativo: 
+    p.mb-4(data-aos="fade-right") <strong>Estrategias de evitación</strong>: El objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso, revise con atención el siguiente recurso educativo: 
 
     h4.titulo-adicional-2.mb-4 Proceso estrategia de evitación 
 
@@ -613,7 +613,7 @@
     .h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Estrategias de minimización
 
-    p.mb-4(data-aos="fade-right") El objetivo es reducir el impacto del riesgo en el proyecto. La minimización se presenta cuando falla la evitación, y, por lo tanto, el riesgo se presenta. Así el caso, se debe plantear un Plan de contingencia, que buscará mitigar los efectos del riesgo, una vez éste se haya creado.
+    p.mb-4(data-aos="fade-right") El objetivo es reducir el impacto del riesgo en el proyecto. La minimización se presenta cuando falla la evitación, y, por lo tanto, el riesgo se presenta. Así el caso, se debe plantear un plan de contingencia, que buscará mitigar los efectos del riesgo, una vez este se haya creado.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-down")
       .col-12
@@ -622,7 +622,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_16.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Un Plan de Contingencia describe los procesos y procedimientos que se deben implementar en una empresa cuando los riesgos dejan de ser probables y se convierten en un hecho. Por los tanto, se asume que las estrategias de evitación y monitorización de los riesgos han fallado, y sus efectos son inevitables. Llegado a este punto, la única salida es activar el plan de minimización que incluye las etapas de coordinación en el manejo de la crisis, uso de procesos alternativos que permitan la continuidad de las operaciones, y resolución de los incidentes para garantizar el reinicio a la operación normal de los procesos.
+            p.mb-0 Un Plan de Contingencia describe los procesos y procedimientos que se deben implementar en una empresa cuando los riesgos dejan de ser probables y se convierten en un hecho. Por lo tanto, se asume que las estrategias de evitación y monitorización de los riesgos han fallado, y sus efectos son inevitables. Llegado a este punto, la única salida es activar el plan de minimización que incluye las etapas de coordinación en el manejo de la crisis, uso de procesos alternativos que permitan la continuidad de las operaciones, y resolución de los incidentes para garantizar el reinicio a la operación normal de los procesos.
 
     .row.justify-content-center.mb-2
       .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")
@@ -635,12 +635,12 @@
           img(src='@/assets/curso/temas/tema1/fig-4a.svg', alt='En la figura 1 se muestra el Tratamiento del riesgo .')  
           figcaption Nota. https://bit.ly/3zMxf20
 
-    p.mb-4(data-aos="fade-right") Ahora bien, la norma ISO 31000 es una norma internacional para la gestión de riesgos, allí se plasman orientaciones y fundamentos en busca de minimizar impactos de riesgos presentes en las organizaciones. Fue publicada en noviembre de 2009 por la Organización Internacional de Normalización (ISO) en colaboración con la Comisión Electrotécnica Internacional (IEC), y tiene por objetivo gestionar sistemas especializados para la normalización mundial, a su vez que empresas de todos los tamaños y tipos logren gestionar los riesgos en las instituciones de forma efectiva, recomendando a éstas que desarrollen, implementen y mejoren de forma continua sus marcos de trabajo con el propósito de integrar la cultura de gestión de riesgos en cada área de la empresa. 
+    p.mb-4(data-aos="fade-right") Ahora bien, la norma ISO 31000 es una norma internacional para la gestión de riesgos, allí se plasman orientaciones y fundamentos en busca de minimizar impactos de riesgos presentes en las organizaciones. Fue publicada en noviembre de 2009 por la Organización Internacional de Normalización (ISO) en colaboración con la Comisión Electrotécnica Internacional (IEC), y tiene por objetivo gestionar sistemas especializados para la normalización mundial, a su vez que empresas de todos los tamaños y tipos logren gestionar los riesgos en las instituciones de forma efectiva, recomendando a estas que desarrollen, implementen y mejoren de forma continua sus marcos de trabajo con el propósito de integrar la cultura de gestión de riesgos en cada área de la empresa. 
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-12(data-aos="zoom-in-down")
         .cajon.color-primario.p-3.p-md-4(style="background-color: #E1EFE3")
-          p La variedad y complejidad de los riesgos es amplia por lo que este estándar internacional desarrollado por la ISO no está pensado para un sistema particular de gestión, más bien es una guía de buenas prácticas para las actividades relacionadas con la gestión de riesgos. El diseño y la implementación de la gestión de riesgos dependen de las diversas necesidades de cada organización, de sus objetivos concretos, contexto, estructura, operaciones, procesos actividades, servicios, etc. 
+          p La variedad y complejidad de los riesgos es amplia, por lo que este estándar internacional desarrollado por la ISO no está pensado para un sistema particular de gestión, más bien es una guía de buenas prácticas para las actividades relacionadas con la gestión de riesgos. El diseño y la implementación de la gestión de riesgos dependen de las diversas necesidades de cada organización, de sus objetivos concretos, contexto, estructura, operaciones, procesos, actividades, servicios, etc. 
           p.mb-0 Esta norma está estructurada en tres elementos claves para una efectiva gestión de riesgos, para conocerlos revise con atención el siguiente recurso educativo:
 
     //- h4.titulo-adicional-2.mb-5 Elementos a tener en cuenta para la gestión de riesgos
@@ -651,7 +651,7 @@
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/icot_1.svg', alt='')
-        p La estructura de soporte o marco de Trabajo. El objetivo de este elemento es integrar el proceso de gestión de riesgos con la dirección, para que esta adquiera un fuerte compromiso con la implantación de la Gestión del Riesgo. 
+        p La estructura de soporte o marco de trabajo. El objetivo de este elemento es integrar el proceso de gestión de riesgos con la dirección, para que esta adquiera un fuerte compromiso con la implantación de la Gestión del Riesgo. 
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -684,7 +684,7 @@
           p(numero="4" titulo="Análisis de riesgos") Acá se evalúan las causas y las fuentes de riesgos, sus consecuencias, negativas y positivas.  El análisis tiene como objetivo, entender la probabilidad real de que el riesgo ocurra, y el impacto que tendrá.
           p(numero="5" titulo="Evaluación de riesgos") Ayuda a tomar decisiones, sobre la base obtenida del análisis. Es preciso generar acciones inmediatas para prevenir ese riesgo o minimizar su impacto. 
           p(numero="6" titulo="Tratamiento de los riesgos") Este es el paso en el que se toman decisiones. Es el momento de actuar, y emprender acciones que modifiquen el riesgo.
-          p(numero="7" titulo="Comunicación y consulta") Este paso es continuo e iterativo. Resulta de la obtención de información, mediante la participación en diferentes espacios , diálogo,  debates ,con las partes interesadas.
+          p(numero="7" titulo="Comunicación y consulta") Este paso es continuo e iterativo. Resulta de la obtención de información, mediante la participación en diferentes espacios, diálogo, debates, con las partes interesadas.
           p(numero="8" titulo="Monitoreo") Se trata de un proceso continuo de verificación, y observación crítica, que pretende identificar cambios en la situación que pudiesen generar nuevos riesgos, o afectar la eficacia del plan de Gestión de Riesgos.
           p(numero="9" titulo="Auditoría") El plan de Gestión de Riesgo, debe alimentarse, monitorear, supervisar y analizarse en forma continua, ya que los riesgos son dinámicos. Tanto sus causas como sus consecuencias pueden variar, y afectar la probabilidad y el impacto de ellos.
 

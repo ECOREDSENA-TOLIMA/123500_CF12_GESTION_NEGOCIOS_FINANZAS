@@ -149,12 +149,12 @@ export default {
     {
       termino: 'Indicadores de riesgo',
       significado:
-        'Los KRI permiten determinar el grado de riesgo presente en una empresa en el momento de existir un evento o amenaza. Este indicador está definido por el apetito de riesgos de la empresa; su objetivo es generar alertas para que el gestor de riesgos pueda alcanzar a generar un cambio en la tendencia de las amenazas de manera preventiva, y se pueda iniciar acciones para su tratamiento oportuno.',
+        'Los KRI permiten determinar el grado de riesgo presente en una empresa en el momento de existir un evento o amenaza. Este indicador está definido por el apetito de riesgos de la empresa; su objetivo es generar alertas para que el gestor de riesgos pueda alcanzar a generar un cambio en la tendencia de las amenazas de manera preventiva, y se pueden iniciar acciones para su tratamiento oportuno.',
     },
     {
       termino: 'Matriz de Probabilidad de Impacto',
       significado:
-        'Herramienta que prioriza las señales o tendencias de cambio notorias de una manera sencilla y gráfica, conformada por dos dimensiones, referentes al nivel de oportunidad y riesgo: La probabilidad que el evento ocurra Vs. El impacto provocado si ocurre el evento.',
+        'Herramienta que prioriza las señales o tendencias de cambio notorias de una manera sencilla y gráfica, conformada por dos dimensiones, referentes al nivel de oportunidad y riesgo: la probabilidad que el evento ocurra Vs. El impacto provocado si ocurre el evento.',
     },
     {
       termino: 'Matriz de riesgo',
@@ -174,7 +174,7 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'AE. (2022). Agencia Europea para el SG-SST',
+      referencia: 'AE. (2022). Agencia Europea para el SG-SST.',
       link: 'https://osha.europa.eu/es',
     },
     {
@@ -196,7 +196,7 @@ export default {
     },
     {
       referencia:
-        'Gestión Del Riesgo: Orientación Para La Implementación De La NTC-ISO 31000 = Risk Management : Guidance for the Implementation of ISO 31000. Bogotá: Icontec, 2016. Print.',
+        'Gestión Del Riesgo: Orientación Para La Implementación De La NTC-ISO 31000 = <i>Risk Management : Guidance for the Implementation of</i> ISO 31000. Bogotá: Icontec, 2016. <i>Print</i>.',
     },
     {
       referencia:
