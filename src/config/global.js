@@ -207,7 +207,7 @@ export default {
     {
       referencia: 'MinTic. (2016). Guía de gestión de riesgos.',
       link:
-        'https://www.mintic.gov.co/gestionti/615/articles-5482_G7_Gestion_Riesgos.pdf',
+        'https://gobiernodigital.mintic.gov.co/portal/Manual-de-Gobierno-Digital/150516:Guia-de-gestion-de-riesgos',
     },
     {
       referencia: 'UNGRD. (2022). Plan de Tratamiento de Riesgos.',

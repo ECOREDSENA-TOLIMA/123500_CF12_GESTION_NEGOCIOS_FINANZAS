@@ -13,7 +13,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/YZNE77f0pC0?si=6vmFSsqvCjVe0d7E" title="Cultura del riesgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GhNnDkAFnlw?si=PvIZHqcFIY8htmdv" title="Cultura del riesgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Cultura del riesgo
     
 </template>
