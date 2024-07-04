@@ -369,7 +369,7 @@
           img(src='@/assets/curso/temas/tema1/fig-1a_.svg', alt='En la figura 1 se muestra La matriz de Probabilidad / Impacto.')  
           figcaption Nota. https://bit.ly/3SkXvaM
       .col-md-11.col-lg-10.col-12.mb-4(data-aos="fade-down")
-        p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se analiza en la figura 2. 
+        p.mb-4 Otra forma para interpretar la matriz, se realiza dividiendo la matriz en 4 áreas, en lugar de como en el caso anterior. Estas 4 áreas están definidas por la prioridad o gravedad del riesgo detectado como se puede analizar en la figura 2. 
         .tarjeta.color-primario.p-4(style="background-color: #E1FBFF")
           p.mb-1 ● #[b Área 1.] Se ubican las señales de cambio con impacto muy bajo, es decir, aquellas “no importantes”.
           p.mb-1 ● #[b Área 2.] Son los eventos detectados con impacto medio-alto, pero su probabilidad de ocurrencia es baja, por lo tanto, son “imposibles” que ocurran.
@@ -574,7 +574,7 @@
     //-.h4.mb-4(data-aos="zoom-down-right")
       span.titulo-herramientas Estrategias de evitación
 
-    p.mb-4(data-aos="fade-right") <strong>Estrategias de evitación</strong>: El objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso, revise con atención el siguiente recurso educativo: 
+    p.mb-4(data-aos="fade-right") <strong>Estrategias de evitación</strong>: el objetivo es minimizar o reducir lo más posible la probabilidad de que el riesgo ocurra. El proceso se basa en transferir, reducir, evitar y diversificar, para entender mejor este proceso, revise con atención el siguiente recurso educativo: 
 
     h4.titulo-adicional-2.mb-4 Proceso estrategia de evitación 
 
@@ -622,7 +622,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_16.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Un Plan de Contingencia describe los procesos y procedimientos que se deben implementar en una empresa cuando los riesgos dejan de ser probables y se convierten en un hecho. Por lo tanto, se asume que las estrategias de evitación y monitorización de los riesgos han fallado, y sus efectos son inevitables. Llegado a este punto, la única salida es activar el plan de minimización que incluye las etapas de coordinación en el manejo de la crisis, uso de procesos alternativos que permitan la continuidad de las operaciones, y resolución de los incidentes para garantizar el reinicio a la operación normal de los procesos.
+            p.mb-0 Un plan de contingencia describe los procesos y procedimientos que se deben implementar en una empresa cuando los riesgos dejan de ser probables y se convierten en un hecho. Por lo tanto, se asume que las estrategias de evitación y monitorización de los riesgos han fallado, y sus efectos son inevitables. Llegado a este punto, la única salida es activar el plan de minimización que incluye las etapas de coordinación en el manejo de la crisis, uso de procesos alternativos que permitan la continuidad de las operaciones, y resolución de los incidentes para garantizar el reinicio a la operación normal de los procesos.
 
     .row.justify-content-center.mb-2
       .col-md-11.col-lg-10.col-12.mb-5(data-aos="fade-down")

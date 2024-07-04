@@ -149,7 +149,7 @@ export default {
     {
       termino: 'Indicadores de riesgo',
       significado:
-        'Los KRI permiten determinar el grado de riesgo presente en una empresa en el momento de existir un evento o amenaza. Este indicador está definido por el apetito de riesgos de la empresa; su objetivo es generar alertas para que el gestor de riesgos pueda alcanzar a generar un cambio en la tendencia de las amenazas de manera preventiva, y se pueden iniciar acciones para su tratamiento oportuno.',
+        'Los KRI permiten determinar el grado de riesgo presente en una empresa en el momento de existir un evento o amenaza. Este indicador está definido por el apetito de riesgos de la empresa; su objetivo es generar alertas para que el gestor de riesgos pueda alcanzar a generar un cambio en la tendencia de las amenazas de manera preventiva, y se puedan iniciar acciones para su tratamiento oportuno.',
     },
     {
       termino: 'Matriz de Probabilidad de Impacto',
@@ -227,7 +227,7 @@ export default {
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -238,34 +238,34 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesoría Metodológica y Pedagógica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Abel Fernando Becerra Carrillo',
           cargo: 'Experto Temático',
           centro:
-            'Centro de la industria, la empresa y los servicios - Región Norte de Santander',
+            'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Jeimy Lorena Romero Perilla',
           cargo: 'Diseño Instruccional',
           centro:
-            'Centro de la industria, la empresa y los servicios - Regional Norte de Santander',
+            'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
           cargo: 'Asesoría Metodológica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
           cargo: 'Corrección de Estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Evaluación Instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -275,27 +275,27 @@ export default {
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Producción Audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción Audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Diseñador Web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oscar Daniel Espitia Marin',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -305,12 +305,12 @@ export default {
         {
           nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
